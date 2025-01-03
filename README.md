@@ -58,3 +58,9 @@ In legal contexts, accusing someone of誘導犯罪 or shifting blame may lead to
 ---
 
 Understanding these tactics can help identify and address such manipulative behaviors effectively.
+
+
+## OR
+
+Simply blames the apple. 
+God makes me too smart.
