@@ -154,5 +154,62 @@ Victims’ biases may stem from:
 
 ---
 
+### Perjury
+
+**Perjury** is a criminal offense that involves deliberately lying or making false statements under oath during a legal proceeding. It is considered a serious crime because it undermines the integrity of the judicial system.
+
+---
+
+### **Definition of Perjury**
+- **Legal Definition**: Perjury occurs when an individual, under oath, willfully provides false testimony about a material fact in a legal proceeding, such as a trial, deposition, or affidavit.
+- **Key Elements**:
+  1. **Oath**: The individual must have been under a lawful oath to tell the truth.
+  2. **False Statement**: The statement must be intentionally false and not the result of a mistake or misunderstanding.
+  3. **Materiality**: The false statement must be about a material fact, meaning it could influence the outcome of the proceeding.
+
+---
+
+### **Examples of Perjury**
+- Providing false testimony in court about your whereabouts during a crime.
+- Lying in a sworn affidavit in a civil or criminal case.
+- Giving false information during a deposition.
+
+---
+
+### **Consequences of Perjury**
+- **Criminal Penalties**:
+  - Perjury is a **felony** in most jurisdictions.
+  - Penalties often include fines, imprisonment, or both.
+  - For example, under **federal law** (18 U.S.C. § 1621), perjury can result in up to **5 years in prison**.
+
+- **Impact on Legal Proceedings**:
+  - The false statement can invalidate the proceeding or lead to a mistrial.
+  - The individual may lose credibility, harming their case or future legal standing.
+
+---
+
+### **Defenses Against Perjury Charges**
+- **Mistake or Misunderstanding**: If the false statement was not intentional but the result of confusion or a lapse in memory, it may not qualify as perjury.
+- **Truth or Correction**: If the individual corrects the false statement before it significantly impacts the legal proceeding, they may avoid prosecution.
+- **Immaterial Statement**: If the false statement was not about a material fact, it cannot be prosecuted as perjury.
+
+---
+
+### **Famous Perjury Cases**
+1. **Bill Clinton (1998)**: Accused of perjury during his impeachment trial for providing false statements about his relationship with Monica Lewinsky.
+2. **Barry Bonds (2007)**: Charged with perjury for allegedly lying to a grand jury about steroid use.
+3. **Martha Stewart (2004)**: Accused of making false statements and obstructing justice during an insider trading investigation.
+
+---
+
+### **Related Offenses**
+- **Subornation of Perjury**: Persuading or coercing another person to commit perjury.
+- **Obstruction of Justice**: Interfering with the judicial process, which often accompanies perjury.
+
+---
+
+### **Why Perjury Matters**
+Perjury threatens the administration of justice because courts rely on truthful testimony to make fair and accurate decisions. Protecting the integrity of legal proceedings is essential for maintaining public trust in the judicial system.
+
 ### **A Broader Perspective**
 Victims’ confirmation bias underscores the importance of balanced approaches in criminal justice, where empathy and critical thinking coexist. Ensuring that biases are identified and mitigated is essential for both justice and healing.
