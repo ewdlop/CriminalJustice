@@ -1,5 +1,127 @@
 # CriminalJustice
 
+
+## Not to mention leaving the country at the wrong time(VISA) + Delware(It is no joke) + Florida(goes to place where you do not belong)...oh great and South Cornelia BIG HOUSE
+
+When discussing minimal laws applicable across **New Jersey (NJ)**, **New York (NY)**, **Pennsylvania (PA)**, **Maryland (MD)**, and the **Federal Government**, it is essential to focus on legal frameworks that have uniform applicability due to federal mandates or regional agreements. Below are key areas of such minimal, overarching laws:
+
+---
+
+### **1. Federal Supremacy and Uniform Laws**
+- **Supremacy Clause**: The U.S. Constitution (Article VI) establishes federal law as the supreme law of the land. States must comply with federal laws and cannot enforce contradictory state laws.
+
+#### Examples of Federal Minimal Laws:
+1. **Civil Rights Protections**:
+   - Civil Rights Act of 1964 prohibits discrimination based on race, color, religion, sex, or national origin.
+   - Americans with Disabilities Act (ADA) ensures accessibility and prohibits disability-based discrimination.
+
+2. **Minimum Wage**:
+   - Federal minimum wage is $7.25/hour (Fair Labor Standards Act). States like NJ, NY, PA, and MD can set higher minimum wages, but not lower.
+
+3. **Voting Rights**:
+   - Voting Rights Act of 1965 protects against discriminatory practices in elections.
+   - All residents in these states must follow federal voting regulations.
+
+4. **Interstate Commerce**:
+   - Regulated by the Commerce Clause (U.S. Constitution).
+   - Prevents states from imposing trade barriers that impede interstate commerce.
+
+---
+
+### **2. Criminal Laws**
+Some federal criminal laws apply universally, ensuring consistency across state lines:
+1. **Drug Trafficking**:
+   - Federal laws govern trafficking and distribution of controlled substances, even if states differ on drug legality (e.g., marijuana).
+   
+2. **Human Trafficking**:
+   - Federal statutes prohibit human trafficking under laws like the Trafficking Victims Protection Act.
+
+3. **Firearms**:
+   - Federal minimums regulate background checks (Brady Handgun Violence Prevention Act) for firearm purchases, even though states may impose stricter laws.
+
+4. **Cybercrime**:
+   - Federal laws like the Computer Fraud and Abuse Act address cyber-related crimes across all states.
+
+---
+
+### **3. Interstate Agreements**
+States in this region often coordinate via compacts or agreements for mutual benefit:
+1. **Interstate Transportation**:
+   - Managed by federal regulations and bi-state agencies like the Port Authority of New York and New Jersey (PANYNJ).
+   - Public transit (e.g., SEPTA, NJ Transit) complies with federal safety and accessibility laws.
+
+2. **Driver's Licenses and Vehicle Registration**:
+   - Uniform rules through the Driver License Compact ensure shared recognition of licenses and penalties for violations.
+
+3. **Environmental Standards**:
+   - Regional compliance with the Clean Water Act and Clean Air Act.
+   - Delaware River Basin Commission (DRBC) manages shared water resources across NJ, NY, PA, and MD.
+
+---
+
+### **4. Civil Laws**
+1. **Marriage and Divorce**:
+   - States must recognize marriages performed in other states under the Full Faith and Credit Clause (Article IV, U.S. Constitution).
+   - Federal law recognizes marriages for benefits (e.g., Social Security).
+
+2. **Child Custody and Support**:
+   - Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA) standardizes custody rulings across states.
+   - Child support enforcement crosses state lines under federal law.
+
+3. **Bankruptcy**:
+   - Governed entirely by federal law (U.S. Bankruptcy Code).
+   - Applies uniformly regardless of the state of filing.
+
+---
+
+### **5. Employment and Labor**
+1. **Workplace Protections**:
+   - Federal laws like the Family and Medical Leave Act (FMLA) and Occupational Safety and Health Act (OSHA) establish minimum worker protections.
+   
+2. **Unemployment Benefits**:
+   - While states manage unemployment programs, federal guidelines ensure minimum compliance during economic crises.
+
+---
+
+### **6. Healthcare and Education**
+1. **Healthcare**:
+   - Federal programs like Medicare, Medicaid, and the Affordable Care Act (ACA) set minimum standards for healthcare access and insurance.
+   
+2. **Education**:
+   - Federal funding for education requires compliance with the Every Student Succeeds Act (ESSA).
+   - States must provide free public education to children under federal constitutional requirements.
+
+---
+
+### **7. Interstate Taxation and Reciprocity**
+1. **Income Tax**:
+   - NJ and PA have reciprocal agreements to avoid double taxation for residents working across state lines.
+   - Federal laws regulate interstate commerce tax standards (e.g., Wayfair decision for online sales taxes).
+
+2. **Estate and Gift Taxes**:
+   - Governed by federal minimums, but states may impose additional taxes.
+
+---
+
+### **8. Voting and Elections**
+1. **Federal Election Laws**:
+   - National Voter Registration Act requires states to simplify voter registration processes.
+   - States must comply with federal election security mandates.
+
+---
+
+### **9. Law Enforcement Cooperation**
+1. **Extradition**:
+   - Federal laws and interstate agreements streamline extradition for crimes committed across state lines.
+
+2. **Amber Alerts and Missing Persons**:
+   - Coordination under federal standards ensures swift action across state boundaries.
+
+---
+
+### **Conclusion**
+While NJ, NY, PA, and MD each have their specific legal frameworks, federal law provides a consistent baseline to ensure uniformity in key areas like civil rights, commerce, and criminal law. Interstate agreements further enhance cooperation, especially in shared resources, transportation, and public safety.
+
 ## Example
 
 The behavior you’re describing involves **projection**, **blame-shifting**, and possibly **entrapment**. Here’s a breakdown of these concepts:
